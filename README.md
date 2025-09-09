@@ -1,4 +1,4 @@
-# 🎮 Hi there, I’m a Game Developer!
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=fenerbahce17&color=blue)
 
