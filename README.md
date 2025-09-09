@@ -4,20 +4,23 @@
 
 ---
 
-## 👾 About Me
-- 🎨 I  develop **2D & 3D games** using **Unity**
-- 🕹️ Passionate about **game mechanics, level design, and immersive player experiences**
-- 🌱 Currently learning **advanced Unity workflows & game optimization**
+👾 About Me
 
+🎮 I’m a game developer creating 2D & 3D experiences with Unity
 
----
+🧩 Passionate about gameplay mechanics, level design, and crafting engaging worlds
 
-## 🛠️ Tech Stack
-- 🎮 **Unity Engine** (2D & 3D)
-- 🔹 **C#**
-- 🎨 Blender / Photoshop (for assets)
-- 🌐 Git & GitHub
+🚀 Always exploring advanced Unity workflows, performance optimization, and player-focused design
 
+🛠️ Tech Stack
+
+🕹️ Unity Engine (2D & 3D Game Development)
+
+💻 C# (Gameplay & Systems Programming)
+
+🎨 Blender / Photoshop (Assets & Visual Design)
+
+🌐 Git & GitHub (Version Control & Collaboration
 ---
 
 ## 📊 GitHub Stats
