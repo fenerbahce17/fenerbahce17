@@ -18,8 +18,6 @@
 
 💻 C# (Gameplay & Systems Programming)
 
-🎨 Blender / Photoshop (Assets & Visual Design)
-
 🌐 Git & GitHub (Version Control & Collaboration
 ---
 
