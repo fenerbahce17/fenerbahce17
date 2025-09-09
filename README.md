@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🎮 Hi there, I’m a Game Developer!
 
-<!--
-**fenerbahce17/fenerbahce17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=fenerbahce17&color=blue)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 About Me
+- 🎨 I  develop **2D & 3D games** using **Unity**
+- 🕹️ Passionate about **game mechanics, level design, and immersive player experiences**
+- 🌱 Currently learning **advanced Unity workflows & game optimization**
+
+
+---
+
+## 🛠️ Tech Stack
+- 🎮 **Unity Engine** (2D & 3D)
+- 🔹 **C#**
+- 🎨 Blender / Photoshop (for assets)
+- 🌐 Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fenerbahce17&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fenerbahce17&theme=tokyonight)
+
+---
